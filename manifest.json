@@ -1,1 +1,19 @@
-{"name":"AGHAI Islamic Smart Clock","short_name":"AGHAI Clock","start_url":"./","display":"standalone","background_color":"#071a19","theme_color":"#071a19"}
+{
+  "id": "./",
+  "name": "AGHAI Islamic Smart Clock",
+  "short_name": "AGHAI Clock",
+  "description": "World Time, Qibla, Quran and Daily Duas",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071a19",
+  "theme_color": "#071a19",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
